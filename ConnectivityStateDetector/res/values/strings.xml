@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Connectivity Detector</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="info">This activity detects the network state by suscribing to a broadcast receiver. Disconnect or Connect to the Internet to see how it detects the current network state.</string>
+    <string name="title_textview">Network state</string>
+    <string name="state_textview">State</string>
+</resources>
